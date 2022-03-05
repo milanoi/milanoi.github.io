@@ -5,7 +5,5 @@ description: Let's get talking. I'm all ears!
 featured_image: /milanoi_on_side.jpg
 ---
 
-![](/images/milanoi_on_side.jpg)
-
 {% include contact-form.html %}
 
