@@ -5,8 +5,6 @@ description: Milanoi's profile
 featured_image: /images/milanoi_on_side.jpg
 ---
 
-![](/images/milanoi_on_side.jpg)
-
 <style>
 body {
 text-align: justify}
